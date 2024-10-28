@@ -1,5 +1,7 @@
 {
   "name": "why-bitcoin",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }

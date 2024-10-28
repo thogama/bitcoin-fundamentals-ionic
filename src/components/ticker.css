@@ -1,0 +1,17 @@
+.no-margin {
+
+    margin: 0;
+}
+
+ion-button.no-padding::part(native) {
+    padding: 0;
+}
+
+
+.no-padding {
+    padding: 0 !important;
+}
+
+:root{
+    --ion-grid-padding: 0;
+}
